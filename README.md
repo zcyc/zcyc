@@ -1,8 +1,2 @@
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CharlieJ0hn&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&line_height=20"
-    alt="CharlieJ0hn readme card" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieJ0hn&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&layout=compact"
-    alt="CharlieJ0hn top langs" />
-</p>
+| <a href="https://github-readme-stats.vercel.app/api?theme=github_dark&username=zcyc&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?theme=github_dark&username=zcyc&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="zcyc readme card" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=zcyc&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&layout=compact" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=zcyc&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&layout=compact" alt="zcyc top langs" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
